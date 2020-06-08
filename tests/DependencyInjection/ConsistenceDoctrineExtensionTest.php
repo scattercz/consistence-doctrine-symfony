@@ -78,7 +78,10 @@ class ConsistenceDoctrineExtensionTest extends \PHPUnit\Framework\TestCase
 	private function assertTypes(array $expectedTypes, array $actualTypes): void
 	{
 		foreach ($expectedTypes as $typeName => $typeClass) {
-			$this->assertArraySubset([$typeName => $typeClass], $actualTypes);
+            $this->assertSame(
+                $actualTypes[$typeName],
+                $typeClass
+            );
 		}
 		$this->assertCount(count($expectedTypes), $actualTypes);
 	}
