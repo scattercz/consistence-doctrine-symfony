@@ -148,10 +148,10 @@ services:
 Installation
 ------------
 
-1) Install package [`consistence/consistence-doctrine-symfony`](https://packagist.org/packages/consistence/consistence-doctrine-symfony) with [Composer](https://getcomposer.org/):
+1) Install package [`scattercz/consistence-doctrine-symfony`](https://packagist.org/packages/consistence/consistence-doctrine-symfony) with [Composer](https://getcomposer.org/):
 
 ```bash
-composer require consistence/consistence-doctrine-symfony
+composer require scattercz/consistence-doctrine-symfony
 ```
 
 2) Register the bundle in your application:
