@@ -1,6 +1,6 @@
 {
 	"name": "scattercz/consistence-doctrine-symfony",
-	"description": "Symfony Bundle integrating Consistence library with Doctrine ORM with Symfony 5 support",
+	"description": "Symfony Bundle integrating Consistence library and Doctrine ORM with Symfony 5 support",
 	"keywords": ["consistence", "doctrine", "orm", "symfony", "bundle"],
 	"license": "MIT",
 	"authors": [
