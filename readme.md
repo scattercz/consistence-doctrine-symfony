@@ -1,4 +1,4 @@
-Symfony Bundle integrating Consistence library with Doctrine ORM with Symfony 5 support
+Symfony Bundle integrating Consistence library and Doctrine ORM with Symfony 5 support
 =======================================================================================
 ![Travis CI](https://travis-ci.org/scattercz/consistence-doctrine-symfony.svg?branch=master)
 
