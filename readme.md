@@ -10,6 +10,8 @@ This bundle provides integration of [Consistence](https://github.com/consistence
 
 For now, the only integration which is needed is for [Enums](https://github.com/consistence/consistence/blob/master/docs/Enum/enums.md), see the examples below.
 
+This bundle was updated so it is now working in Symfony 5 and PHP 7.4.
+
 Usage
 -----
 
